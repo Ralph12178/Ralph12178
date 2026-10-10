@@ -96,12 +96,14 @@ To make ministry coordination easier by bringing worship schedules, team respons
 
 
 <div align="center">
-  <img src="https://github.com/Ralph12178/ChocoWaffles/blob/main/My%20drawings/1782410076500.jpg?raw=true" width="120" alt="Drawing 1">
-  <img src="https://github.com/Ralph12178/ChocoWaffles/blob/main/My%20drawings/1784469776760.jpg?raw=true" width="120" alt="Drawing 2">
-  <img src="https://github.com/Ralph12178/ChocoWaffles/blob/main/My%20drawings/IMG_20260618_015855_125.jpg?raw=true" width="120" alt="Drawing 3">
-  <img src="https://github.com/Ralph12178/ChocoWaffles/blob/main/My%20drawings/IMG_20260829_002116_178.jpg?raw=true" width="120" alt="Drawing 3">
-  <img src="https://github.com/Ralph12178/ChocoWaffles/blob/main/My%20drawings/IMG_20260722_015822_605.jpg?raw=true" width="120" alt="Drawing 3">
-  <img src="https://github.com/Ralph12178/ChocoWaffles/blob/main/My%20drawings/IMG_20260730_221323_214.jpg?raw=true" width="120" alt="Drawing 3">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Aqua.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Freiren.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kasane%20Teto%202.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kagamine%20Rin.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Sparkle.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true">
+  
 </div>
 
 Creativity doesn't stop at design software. Gaming inspires me to explore interactive experiences, music helps me focus and find inspiration, and anime drawing lets me express my artistic side.
