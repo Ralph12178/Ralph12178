@@ -95,14 +95,14 @@ To make ministry coordination easier by bringing worship schedules, team respons
 </div>
 
 
+
 <div align="center">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Aqua.jpg?raw=true">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Freiren.jpg?raw=true">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kasane%20Teto%202.jpg?raw=true">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kagamine%20Rin.jpg?raw=true">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Sparkle.jpg?raw=true">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Aqua.jpg?raw=true" width="120" alt="Drawing 1">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Freiren.jpg?raw=true" width="120" alt="Drawing 2">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Hatsune%20Miku%201.jpg?raw=true" width="120" alt="Drawing 3">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kasane%20Teto%202.jpg?raw=true" width="120" alt="Drawing 4">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Sparkle.jpg?raw=true" width="120" alt="Drawing 5">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true" width="120" alt="Drawing 6">
   
 </div>
 
