@@ -2,12 +2,15 @@
 
 
 <div align="center">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/silver-wolf-lvl-999.gif?raw=true" width="300" alt="My drawings">
-</div>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B28,50:5B21B6,100:A855F7&height=220&section=header&text=RALPH%20LAUREN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%7C%20TraditionalArtist%20AnimePortrait&descAlignY=55&descSize=18" width="100%" />
+
+<div align="center">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/silverwolf%20(1).gif?raw=true"
+       width="50%"
+       height="250"
+       alt="My Drawing Banner">
+</div>
 
 ### ✦ Designing Experiences. Art is Beautiful. ✦
 
@@ -163,6 +166,13 @@ and creative problem solver through continuous learning.
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
+
+<div align="center">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/silver-wolf-lvl-999%20(1).gif?raw=true"
+       width="50%"
+       height="250"
+       alt="My Drawing Banner">
+</div>
 
 *“Design is where creativity meets purpose.”*
 
