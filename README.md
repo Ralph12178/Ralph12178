@@ -89,6 +89,9 @@ To make ministry coordination easier by bringing worship schedules, team respons
 
 ## 🎨 My Hobbies
 
+<div align="center">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/hsr-hsr-sw.gif?raw=true" width="300" alt="My drawings">
+</div>
 
 <div align="center">
 
