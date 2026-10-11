@@ -174,7 +174,7 @@ and creative problem solver through continuous learning.
        alt="My Drawing Banner">
 </div>
 
-*“Design is where creativity meets purpose.”*
+*“THIS is Honkai!.”*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B28,50:5B21B6,100:A855F7&height=130&section=footer" width="100%" />
 
