@@ -1,38 +1,37 @@
-# 💜 Ralph Lauren Gregorio
+# 👾 Ralph Lauren Gregorio 👾
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B28,50:5B21B6,100:A855F7&height=220&section=header&text=RALPH%20LAUREN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%7C%20Creative%20Thinker&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B28,50:5B21B6,100:A855F7&height=220&section=header&text=RALPH%20LAUREN&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=UI%2FUX%20Designer%20%7C%20TraditionalArtist%20AnimePortrait&descAlignY=55&descSize=18" width="100%" />
 
-### ✦ Designing Experiences. Creating Connections. ✦
+### ✦ Designing Experiences. Art is Beautiful. ✦
 
 *"You can't rush art".* 💜
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=8B5CF6\&style=for-the-badge\&label=PROFILE+VIEWS)
-![Focus](https://img.shields.io/badge/Focus-UI%2FUX%20Design-A855F7?style=for-the-badge)
+
+![Role](https://img.shields.io/badge/Role-UI%2FUX%20Designer-A855F7?style=for-the-badge)
 ![Course](https://img.shields.io/badge/BSCOE-4th%20Year-6D28D9?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌌 About Me
+## About Me
 
-Hi! I'm **Ralph Lauren Gregorio**, a 4th-year **BSCOE student at ICCT Colleges**, passionate about UI/UX design and creating visually engaging, user-friendly digital experiences.
+Hi! I'm **Ralph Lauren Gregorio**, a 4th-year **BSCOE student at ICCT Colleges**, passionate about UI/UX design and creating visually engaging, user-friendly digital experiences and also a beginner.
+Turning ideas into interfaces that look great and feel intuitive to use. I like exploring creative layouts, experimenting with design concepts, and making digital products more meaningful for their users. 
 
-I enjoy turning ideas into interfaces that look great and feel intuitive to use. I love exploring creative layouts, experimenting with design concepts, and making digital products more meaningful for their users.
-
-When I'm not designing, you can find me gaming, listening to music, or drawing anime. 🎮🎧🎨
+When I'm not designing, you can find me gaming, listening to music, or drawing anime. watching anime 🎮🎧🎨
 
 * 🎨 **Main Interest:** UI/UX Design
 * 🧩 **Design Tool:** Figma
 * 🎓 **Education:** BSCOE, 4th Year — ICCT Colleges
-* 🎮 **Hobbies:** Gaming, music, and anime drawing
-* 🌱 **Goal:** Keep learning, improve my design skills, and create better digital experiences
+* 🎮 **Hobbies:** Gaming, music, and anime drawing, watching anime
+* 👾 **Goal:** Keep learning, improve my design skills, and create better digital experiences
 
 ---
 
-## 🛠️ My Design Toolkit
+## 👾 My Design Toolkit
 
 <div align="center">
 
@@ -40,16 +39,15 @@ When I'm not designing, you can find me gaming, listening to music, or drawing a
 
 </div>
 
-### ✨ What I Enjoy Designing
+### ✨ What I Do 
 
 * **User Interface (UI):** Clean layouts, colors, typography, and visual consistency.
 * **User Experience (UX):** Interfaces that are easy to understand and navigate.
 * **Mobile App Design:** Thoughtful, user-friendly mobile experiences.
-* **Creative Concepts:** Turning ideas and inspiration into visual designs.
 
 ---
 
-## 🚀 Featured Project
+## 🌑 Featured Project
 
 <div align="center">
 
@@ -84,35 +82,35 @@ To make ministry coordination easier by bringing worship schedules, team respons
 
 ---
 
-## 🎨 My Creative Side
+## 🎨 My Hobbies
+
 
 <div align="center">
 
-|     🎮 Gaming     |       🎧 Music      |  🎨 Anime Drawing |
-| :---------------: | :-----------------: | :---------------: |
-| Inspiration & fun | Rhythm & creativity | Art & imagination |
+| 🎮 Gaming | 🎧 Music | 🎨 Anime Drawing | 🌑 Watching Anime |
+| :---: | :---: | :---: | :---: |
+| Inspiration & fun | Rhythm & creativity | Art & imagination | Stories & adventure  & fantacy |
 
 </div>
 
 
-
 <div align="center">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Aqua.jpg?raw=true" width="120" alt="Drawing 1">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Freiren.jpg?raw=true" width="120" alt="Drawing 2">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Hatsune%20Miku%201.jpg?raw=true" width="120" alt="Drawing 3">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kasane%20Teto%202.jpg?raw=true" width="120" alt="Drawing 4">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Sparkle.jpg?raw=true" width="120" alt="Drawing 5">
-  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true" width="120" alt="Drawing 6">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Aqua.jpg?raw=true" width="130" alt="Drawing 1">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Freiren.jpg?raw=true" width="100" alt="Drawing 2">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Hatsune%20Miku%201.jpg?raw=true" width="150" alt="Drawing 3">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Kasane%20Teto%202.jpg?raw=true" width="150" alt="Drawing 4">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Sparkle.jpg?raw=true" width="100" alt="Drawing 5">
+  <img src="https://github.com/Ralph12178/Ralph12178/blob/main/My%20drawings/Tanya.jpg?raw=true" width="95" alt="Drawing 6">
   
 </div>
 
-Creativity doesn't stop at design software. Gaming inspires me to explore interactive experiences, music helps me focus and find inspiration, and anime drawing lets me express my artistic side.
+Creativity doesn't stop. Gaming inspires me to explore interactive experiences, music helps me focus and find inspiration and relaxation, and anime drawing let me express my artistic side. and lastly watching Peak anime lot of good stories
 
-I believe these interests help me appreciate different visual styles, creative ideas, and user experiences.
+I believe these interests help me appreciate my knowledge about different visual styles, creative ideas, and user experiences.
 
 ---
 
-## 🎯 My Goals
+## 🌑 My Goals
 
 * [ ] Improve my UI/UX design skills.
 * [ ] Create more polished designs using Figma.
@@ -124,7 +122,23 @@ I believe these interests help me appreciate different visual styles, creative i
 
 ---
 
-## 📬 Let's Connect!
+## 👾 I'm Still Learning About
+
+
+Am currently studying Figma and designing User Interface/ User Experience apps (UI/UX design) while learning about the importance of people's experience UI whether it is convenient and easy  to use. Expanding my knowledge of design by exploring modern mobile interfaces and having fun with different tools in order to leverage my skills.
+
+### 💭 My Thoughts
+
+> "I'm still learning, slow Learner btw but I can improve my skills.
+> I believe that every mistake is an opportunity to grow,
+> and every new skill brings me one step closer to my goals."
+
+✨ **My goal:** To become a better designer, developer,
+and creative problem solver through continuous learning.
+
+
+
+## 🖥️ Let's Connect!
 
 <div align="center">
 
