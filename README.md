@@ -6,7 +6,7 @@
 
 ### ✦ Designing Experiences. Creating Connections. ✦
 
-*One pixel at a time, one idea at a time.* 💜
+*"You can't rush art".* 💜
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=8B5CF6\&style=for-the-badge\&label=PROFILE+VIEWS)
 ![Focus](https://img.shields.io/badge/Focus-UI%2FUX%20Design-A855F7?style=for-the-badge)
